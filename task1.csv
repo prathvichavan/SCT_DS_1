@@ -1,0 +1,201 @@
+Age,Gender,Income_Level,Education_Level,Employment_Status,Marital_Status,Number_of_Children,Housing_Type,Monthly_Expenditure,Health_Condition,Favorite_Hobby
+56,Female,Medium,Bachelor,Employed,Single,1,Rented,3219,Excellent,Reading
+69,Female,High,High School,Self-Employed,Single,0,Owned,4008,Good,Music
+46,Female,Medium,High School,Employed,Single,3,Owned,4241,Good,Traveling
+32,Male,Medium,Master,Unemployed,Single,1,Owned,2074,Good,Gaming
+60,Female,Low,Bachelor,Employed,Single,0,Owned,4498,Good,Gaming
+25,Female,Low,High School,Self-Employed,Married,2,Rented,2629,Excellent,Sports
+78,Male,Low,High School,Employed,Single,4,Owned,2903,Good,Reading
+38,Non-binary,High,Bachelor,Employed,Single,0,Rented,3829,Excellent,Gaming
+56,Female,Medium,High School,Self-Employed,Married,2,Owned,1088,Good,Music
+75,Female,Medium,High School,Employed,Married,0,Rented,2512,Excellent,Reading
+36,Female,Low,Bachelor,Employed,Single,4,Shared,2047,Fair,Traveling
+40,Female,High,Bachelor,Self-Employed,Married,4,Rented,794,Excellent,Music
+28,Male,High,Bachelor,Self-Employed,Married,1,Owned,2485,Poor,Reading
+28,Male,Low,High School,Employed,Single,3,Owned,3617,Good,Gaming
+41,Female,Low,Bachelor,Unemployed,Divorced,0,Owned,2190,Fair,Traveling
+70,Male,Low,High School,Employed,Divorced,0,Rented,1636,Good,Reading
+53,Male,Medium,High School,Employed,Single,2,Owned,2564,Fair,Gaming
+57,Female,Medium,Bachelor,Employed,Single,4,Owned,4955,Fair,Traveling
+41,Male,Medium,Bachelor,Unemployed,Divorced,0,Rented,1507,Good,Sports
+20,Male,Low,Master,Unemployed,Married,4,Owned,3014,Good,Reading
+39,Male,Medium,Bachelor,Unemployed,Single,0,Rented,4026,Good,Reading
+70,Non-binary,Low,Bachelor,Unemployed,Single,1,Owned,1747,Good,Sports
+19,Male,Low,High School,Employed,Single,3,Owned,4402,Excellent,Sports
+41,Female,Medium,High School,Employed,Married,0,Rented,1935,Good,Sports
+61,Male,Medium,High School,Employed,Married,4,Owned,1071,Good,Music
+47,Male,Medium,High School,Employed,Single,1,Rented,2882,Good,Sports
+55,Male,Low,PhD,Employed,Married,0,Owned,1745,Fair,Reading
+19,Male,Medium,High School,Self-Employed,Married,2,Owned,2584,Good,Traveling
+77,Female,Medium,Master,Employed,Single,3,Rented,777,Poor,Gaming
+38,Female,Low,Bachelor,Employed,Single,0,Rented,2387,Excellent,Music
+50,Female,Medium,Master,Employed,Married,1,Rented,1765,Good,Sports
+29,Male,Low,Bachelor,Unemployed,Divorced,2,Owned,1540,Good,Traveling
+75,Male,Low,Bachelor,Unemployed,Married,1,Rented,1417,Good,Traveling
+39,Male,High,Bachelor,Employed,Married,1,Owned,1385,Fair,Music
+78,Male,High,High School,Employed,Single,2,Owned,3252,Excellent,Gaming
+61,Female,High,Bachelor,Unemployed,Married,1,Shared,521,Fair,Music
+42,Male,Medium,High School,Employed,Married,2,Owned,3691,Good,Gaming
+66,Male,Low,High School,Unemployed,Single,0,Shared,2853,Good,Music
+44,Male,Medium,Bachelor,Unemployed,Single,2,Owned,1186,Good,Reading
+76,Male,Medium,High School,Employed,Single,2,Owned,784,Good,Traveling
+80,Female,Low,Master,Employed,Single,3,Rented,4247,Good,Reading
+59,Female,Medium,PhD,Self-Employed,Single,2,Rented,1262,Good,Traveling
+45,Male,Low,Master,Employed,Single,2,Rented,2928,Excellent,Gaming
+77,Non-binary,High,High School,Employed,Single,0,Rented,3007,Good,Sports
+33,Male,Low,High School,Unemployed,Single,3,Rented,528,Excellent,Sports
+32,Non-binary,Medium,Master,Self-Employed,Divorced,4,Rented,1406,Good,Reading
+79,Male,Medium,Bachelor,Self-Employed,Married,0,Rented,3604,Good,Traveling
+79,Male,Medium,PhD,Unemployed,Married,0,Owned,4499,Good,Traveling
+64,Male,Medium,PhD,Employed,Married,4,Owned,3494,Good,Traveling
+79,Female,Low,Master,Employed,Married,2,Owned,3006,Excellent,Sports
+68,Female,High,High School,Unemployed,Single,1,Shared,4109,Good,Traveling
+61,Female,Medium,High School,Employed,Married,3,Shared,4053,Good,Sports
+72,Male,High,Master,Employed,Married,1,Owned,1953,Good,Reading
+69,Female,High,High School,Self-Employed,Married,4,Rented,3856,Fair,Reading
+74,Female,Medium,High School,Employed,Married,0,Shared,1015,Excellent,Traveling
+20,Male,High,Bachelor,Employed,Single,0,Owned,538,Good,Sports
+54,Male,Low,Master,Employed,Single,3,Rented,3842,Good,Music
+68,Male,Low,Bachelor,Employed,Single,0,Shared,1386,Good,Traveling
+24,Female,Low,Bachelor,Employed,Married,0,Owned,3344,Excellent,Traveling
+38,Female,Medium,High School,Employed,Married,3,Rented,2704,Excellent,Music
+26,Non-binary,Medium,Bachelor,Employed,Single,3,Owned,1598,Fair,Reading
+56,Male,Low,PhD,Unemployed,Widowed,4,Shared,2323,Good,Traveling
+35,Female,High,High School,Unemployed,Married,0,Shared,3701,Good,Gaming
+21,Female,Medium,Bachelor,Employed,Single,0,Shared,3655,Good,Sports
+42,Male,Low,Master,Self-Employed,Single,4,Owned,3593,Good,Traveling
+77,Female,Medium,Bachelor,Employed,Single,2,Rented,4030,Excellent,Gaming
+31,Female,Low,Bachelor,Employed,Single,2,Rented,4278,Good,Music
+67,Female,High,Bachelor,Self-Employed,Single,2,Owned,3396,Good,Traveling
+75,Male,Low,High School,Employed,Single,4,Rented,3953,Poor,Sports
+26,Male,High,High School,Self-Employed,Single,0,Owned,4011,Excellent,Sports
+43,Female,Medium,Master,Employed,Single,4,Rented,1488,Good,Traveling
+70,Female,Low,Master,Self-Employed,Divorced,4,Owned,4616,Good,Traveling
+19,Male,Low,Master,Employed,Single,2,Owned,4526,Good,Traveling
+37,Male,High,Master,Self-Employed,Married,1,Owned,4679,Good,Sports
+45,Non-binary,Medium,Bachelor,Employed,Married,0,Rented,2182,Good,Traveling
+64,Male,Medium,Bachelor,Self-Employed,Widowed,2,Owned,4463,Fair,Gaming
+77,Female,Medium,Master,Employed,Single,1,Rented,1433,Fair,Music
+24,Female,Low,Bachelor,Employed,Single,1,Owned,4098,Good,Reading
+61,Female,Medium,Bachelor,Self-Employed,Widowed,3,Owned,3733,Fair,Sports
+78,Female,Low,Master,Employed,Divorced,0,Rented,2480,Good,Traveling
+25,Male,High,Master,Unemployed,Divorced,1,Rented,2355,Good,Sports
+64,Female,Medium,High School,Unemployed,Single,2,Owned,3556,Excellent,Music
+52,Female,Medium,High School,Employed,Single,3,Rented,1292,Poor,Traveling
+31,Male,Low,High School,Unemployed,Married,0,Rented,1291,Excellent,Sports
+34,Male,Medium,Bachelor,Employed,Divorced,4,Rented,2309,Excellent,Reading
+53,Non-binary,Medium,High School,Self-Employed,Married,2,Owned,2755,Excellent,Reading
+67,Female,Medium,Bachelor,Employed,Married,1,Owned,4110,Good,Traveling
+57,Male,Medium,Bachelor,Employed,Single,1,Rented,2107,Excellent,Traveling
+21,Non-binary,High,High School,Self-Employed,Married,2,Owned,1484,Excellent,Gaming
+19,Non-binary,Medium,Bachelor,Self-Employed,Single,1,Rented,4176,Excellent,Traveling
+79,Female,Low,High School,Employed,Single,3,Rented,3880,Excellent,Traveling
+23,Female,Medium,High School,Unemployed,Married,0,Shared,1019,Good,Sports
+71,Male,Medium,Master,Employed,Married,3,Rented,1090,Good,Reading
+59,Male,Medium,High School,Employed,Single,1,Shared,1550,Good,Gaming
+21,Female,Medium,High School,Employed,Single,4,Owned,4133,Good,Sports
+71,Female,Medium,Bachelor,Employed,Married,0,Rented,4944,Good,Music
+46,Female,Medium,Master,Employed,Single,0,Owned,1459,Excellent,Reading
+80,Male,Medium,High School,Employed,Married,2,Owned,1192,Good,Traveling
+35,Female,Low,Bachelor,Self-Employed,Single,2,Rented,4399,Poor,Traveling
+43,Female,Low,High School,Self-Employed,Married,4,Rented,4973,Good,Gaming
+61,Non-binary,Low,High School,Unemployed,Married,0,Shared,3446,Excellent,Reading
+51,Female,Medium,Bachelor,Employed,Single,4,Rented,1026,Good,Traveling
+27,Female,Medium,Bachelor,Employed,Single,2,Owned,3724,Good,Gaming
+79,Female,Medium,Bachelor,Unemployed,Single,2,Owned,2753,Good,Sports
+53,Male,High,Bachelor,Unemployed,Single,0,Rented,3844,Excellent,Traveling
+31,Non-binary,Low,PhD,Employed,Widowed,3,Owned,4465,Excellent,Reading
+48,Non-binary,Medium,Bachelor,Self-Employed,Single,1,Owned,2375,Excellent,Gaming
+65,Male,Medium,High School,Unemployed,Divorced,2,Owned,2263,Poor,Reading
+32,Male,Low,Master,Self-Employed,Single,2,Owned,1020,Fair,Music
+25,Female,Low,High School,Unemployed,Married,3,Owned,1516,Excellent,Music
+31,Male,Low,Bachelor,Unemployed,Married,3,Owned,616,Excellent,Traveling
+40,Non-binary,Low,High School,Employed,Married,4,Owned,2933,Fair,Music
+77,Male,High,High School,Self-Employed,Married,4,Owned,1083,Excellent,Reading
+74,Male,High,PhD,Self-Employed,Married,1,Shared,894,Excellent,Traveling
+79,Female,Medium,Master,Employed,Single,1,Owned,4288,Poor,Music
+57,Male,High,Bachelor,Employed,Divorced,0,Owned,3268,Excellent,Gaming
+38,Male,High,Bachelor,Employed,Divorced,4,Rented,4667,Good,Sports
+33,Female,Low,High School,Unemployed,Widowed,2,Owned,4360,Poor,Sports
+62,Female,High,High School,Self-Employed,Single,4,Shared,773,Good,Reading
+35,Male,Medium,High School,Employed,Married,2,Rented,2513,Excellent,Reading
+64,Female,High,Bachelor,Employed,Divorced,3,Owned,4933,Excellent,Reading
+70,Female,High,Bachelor,Employed,Single,4,Owned,1889,Fair,Traveling
+41,Female,Medium,Bachelor,Self-Employed,Single,3,Rented,4066,Fair,Traveling
+43,Male,Low,High School,Unemployed,Married,1,Shared,665,Fair,Traveling
+42,Female,Low,PhD,Unemployed,Married,1,Owned,2067,Excellent,Traveling
+77,Non-binary,Medium,Bachelor,Employed,Divorced,0,Rented,1228,Fair,Traveling
+77,Female,High,Bachelor,Employed,Single,4,Owned,2543,Poor,Sports
+77,Non-binary,High,Bachelor,Employed,Married,3,Shared,4697,Good,Gaming
+62,Male,Low,Bachelor,Employed,Single,2,Owned,3996,Poor,Traveling
+58,Male,Medium,High School,Self-Employed,Single,1,Shared,1278,Fair,Gaming
+46,Female,Medium,High School,Unemployed,Single,1,Rented,713,Good,Gaming
+32,Female,Low,Master,Self-Employed,Divorced,2,Rented,4262,Good,Reading
+62,Female,Low,High School,Self-Employed,Married,3,Rented,2076,Good,Music
+18,Male,Medium,High School,Employed,Married,3,Owned,2948,Excellent,Sports
+42,Female,High,High School,Unemployed,Single,4,Owned,3436,Good,Sports
+24,Female,Medium,High School,Self-Employed,Divorced,4,Owned,3617,Good,Traveling
+26,Female,Medium,Master,Unemployed,Single,0,Owned,1091,Fair,Sports
+41,Male,Medium,Bachelor,Employed,Divorced,1,Rented,3220,Poor,Traveling
+18,Non-binary,Medium,Bachelor,Employed,Married,4,Owned,1213,Fair,Sports
+61,Female,High,High School,Employed,Single,3,Owned,1435,Excellent,Sports
+25,Male,High,Bachelor,Self-Employed,Married,2,Shared,4837,Excellent,Music
+41,Female,Low,Bachelor,Unemployed,Single,3,Rented,501,Excellent,Sports
+80,Female,Medium,High School,Employed,Married,1,Shared,3348,Good,Music
+28,Non-binary,Medium,Bachelor,Unemployed,Married,3,Shared,4544,Fair,Reading
+68,Male,Low,High School,Unemployed,Single,0,Owned,2449,Poor,Traveling
+34,Female,Low,Bachelor,Employed,Divorced,1,Owned,1417,Good,Gaming
+25,Female,Medium,Bachelor,Employed,Single,2,Rented,3674,Poor,Traveling
+52,Non-binary,Medium,High School,Unemployed,Married,0,Rented,2741,Fair,Reading
+52,Male,Low,High School,Employed,Divorced,1,Owned,589,Good,Reading
+50,Male,Low,Bachelor,Unemployed,Married,2,Rented,2209,Fair,Traveling
+76,Male,High,Bachelor,Employed,Single,0,Owned,2669,Good,Gaming
+22,Male,Low,Master,Self-Employed,Divorced,0,Owned,4738,Excellent,Sports
+59,Female,Low,Bachelor,Employed,Married,1,Rented,3541,Good,Gaming
+56,Male,Medium,High School,Employed,Single,4,Rented,605,Good,Sports
+75,Male,High,High School,Self-Employed,Single,0,Rented,1386,Good,Sports
+58,Female,Low,Bachelor,Employed,Married,0,Owned,927,Good,Traveling
+45,Non-binary,Medium,High School,Employed,Married,2,Rented,2395,Good,Sports
+24,Male,Medium,Bachelor,Employed,Married,3,Owned,816,Good,Reading
+26,Male,Low,Master,Unemployed,Divorced,1,Owned,1134,Good,Gaming
+25,Female,Medium,Bachelor,Unemployed,Married,1,Rented,2425,Good,Gaming
+29,Male,Medium,High School,Unemployed,Single,4,Shared,2556,Good,Traveling
+51,Male,Medium,Bachelor,Employed,Single,4,Rented,3644,Good,Gaming
+50,Male,Medium,Bachelor,Employed,Single,1,Rented,2770,Excellent,Gaming
+65,Male,Medium,Bachelor,Employed,Married,4,Rented,1939,Good,Music
+72,Female,Low,Master,Employed,Single,2,Rented,1052,Excellent,Reading
+40,Male,High,High School,Employed,Married,1,Owned,1215,Good,Sports
+79,Female,Medium,PhD,Employed,Married,4,Owned,4411,Fair,Sports
+41,Female,Low,Master,Employed,Divorced,1,Owned,2213,Good,Traveling
+54,Male,Low,High School,Self-Employed,Single,3,Owned,3889,Good,Reading
+52,Male,Medium,High School,Employed,Divorced,0,Rented,1607,Poor,Music
+61,Male,Medium,High School,Employed,Single,1,Owned,4706,Fair,Reading
+57,Female,Low,High School,Unemployed,Divorced,0,Owned,750,Poor,Sports
+39,Male,Medium,High School,Employed,Single,4,Owned,2930,Fair,Gaming
+44,Male,Low,Bachelor,Unemployed,Single,0,Rented,2554,Excellent,Gaming
+52,Female,Medium,High School,Self-Employed,Married,1,Owned,958,Excellent,Traveling
+18,Male,Low,High School,Self-Employed,Single,3,Rented,707,Good,Gaming
+52,Male,Medium,Master,Employed,Single,4,Owned,1399,Excellent,Reading
+54,Male,Medium,High School,Self-Employed,Married,1,Owned,3961,Good,Reading
+64,Male,High,Master,Employed,Married,4,Rented,3885,Good,Sports
+31,Female,Low,High School,Employed,Married,2,Rented,521,Good,Traveling
+20,Male,Medium,High School,Employed,Married,0,Owned,909,Fair,Traveling
+18,Female,Low,Bachelor,Self-Employed,Married,2,Rented,1394,Fair,Sports
+22,Male,High,Bachelor,Employed,Single,1,Rented,1014,Good,Reading
+43,Female,High,Master,Employed,Single,3,Owned,4609,Fair,Traveling
+72,Male,Low,Bachelor,Unemployed,Single,4,Rented,2634,Good,Sports
+80,Male,Medium,Master,Employed,Divorced,0,Rented,4095,Fair,Music
+31,Non-binary,High,High School,Employed,Married,4,Rented,3456,Excellent,Sports
+56,Female,Medium,High School,Employed,Married,1,Rented,2060,Poor,Traveling
+44,Female,Medium,Master,Employed,Married,4,Rented,1766,Good,Traveling
+26,Male,Low,Master,Employed,Divorced,0,Rented,2669,Good,Reading
+32,Male,Low,PhD,Employed,Single,1,Rented,4138,Excellent,Reading
+32,Male,High,Bachelor,Unemployed,Married,4,Rented,1249,Good,Music
+43,Female,High,High School,Employed,Married,3,Rented,3927,Excellent,Traveling
+59,Male,Medium,Master,Employed,Married,1,Rented,2427,Excellent,Reading
+77,Female,Medium,High School,Self-Employed,Single,1,Rented,4304,Good,Music
+30,Male,Medium,Master,Employed,Divorced,3,Owned,4202,Good,Sports
+68,Non-binary,Medium,Master,Unemployed,Divorced,2,Rented,2856,Good,Sports
+80,Female,High,Bachelor,Employed,Married,0,Rented,2835,Poor,Traveling
+49,Female,High,Master,Employed,Married,2,Owned,806,Good,Traveling
+56,Male,Medium,Master,Employed,Divorced,4,Rented,4165,Good,Traveling
