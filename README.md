@@ -16,5 +16,4 @@ Follow these steps to set up the project environment:
 
 1. **Clone the Repository**  
    ```bash
-   git clone https://github.com/your-username/visualization-task.git
-   cd visualization-task
+   https://github.com/prathvichavan/SCT_DS_1/blob/main/README.md
