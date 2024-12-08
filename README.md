@@ -11,9 +11,18 @@ Key Highlights:
 - Implementation of visualization techniques using Python libraries.  
 - Clear and concise representation of data through bar charts or histograms.
 
-## **Installation Instructions**  
-Follow these steps to set up the project environment:
+## **Usage**
+The notebook processes the dataset to visualize the distribution of a selected variable. Examples include:
 
-1. **Clone the Repository**  
-   ```bash
-   https://github.com/prathvichavan/SCT_DS_1/blob/main/README.md
+*Bar Chart for Categorical Variables*
+The script creates a bar chart to showcase the frequency distribution of categories.
+
+*Histogram for Continuous Variables*
+For continuous variables like ages, a histogram illustrates the data's spread and concentration.
+
+## **Results**
+The output visualizations provide meaningful insights into the dataset:
+
+Bar Chart: Clearly depicts the distribution of categorical variables like gender.
+Histogram: Displays the frequency distribution of continuous variables such as age.
+These visualizations help identify patterns and trends within the data.
