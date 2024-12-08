@@ -23,6 +23,10 @@ For continuous variables like ages, a histogram illustrates the data's spread an
 ## **Results**
 The output visualizations provide meaningful insights into the dataset:
 
-Bar Chart: Clearly depicts the distribution of categorical variables like gender.
-Histogram: Displays the frequency distribution of continuous variables such as age.
+Bar Chart:
+Clearly depicts the distribution of categorical variables like gender.
+
+Histogram:
+Displays the frequency distribution of continuous variables such as age.
+
 These visualizations help identify patterns and trends within the data.
